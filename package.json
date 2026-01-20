@@ -1,0 +1,19 @@
+{
+  "name": "com.tcs.tools.scriptableobjectinspector",
+  "displayName": "TCS ScriptableObject Inspector",
+  "version": "1.0.0",
+  "description": "Second-inspector workflow and quality-of-life utilities for ScriptableObjects.",
+  "unity": "6000.0",
+  "author": { "name": "TweakingCatStudios", "url": "https://tweakingcatstudios.com" },
+  "keywords": ["tcs","tools","editor","scriptableobject"],
+  "samples": [
+    {
+      "displayName": "Getting Started",
+      "description": "Tiny example demonstrating the second inspector workflow.",
+      "path": "Samples~/GettingStarted"
+    }
+  ],
+  "dependencies": {
+    "com.unity.test-framework": "1.4.5"
+  }
+}

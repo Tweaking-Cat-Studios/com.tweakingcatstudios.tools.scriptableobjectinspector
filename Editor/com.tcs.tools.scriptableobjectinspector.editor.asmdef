@@ -1,0 +1,7 @@
+{
+  "name": "com.tcs.tools.scriptableobjectinspector.editor",
+  "rootNamespace": "TCS.ScriptableObjectInspector.Editor",
+  "references": [ "com.tcs.tools.scriptableobjectinspector" ],
+  "includePlatforms": [ "Editor" ],
+  "autoReferenced": true
+}
